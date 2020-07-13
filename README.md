@@ -1,2 +1,2 @@
-# exercicio_Regressao_Linear
- Regressão linear a partir de pontos cordenados
+# exercicio_PlayList_de_Musicas
+ Exercicio de criação de uma PlayList com uma estrutura heterogenea de dados (Struct)
